@@ -1,6 +1,6 @@
 {
 	"name": "@bradmax/player-rxjs-example",
-	"version": "0.0.1",
+	"version": "0.0.0",
 	"description": "Bradmax Player ReactJs example app.",
 	"author": "Piotr Długołęcki <piotr.dlugolecki@bradmax.pl>",
 	"license": "MIT",
