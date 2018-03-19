@@ -1,0 +1,30 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"sourceMap": true,
+		"noImplicitAny": true,
+		"module": "commonjs",
+		"target": "es5",
+		"jsx": "react",
+		"lib": [
+			"es6",
+			"dom"
+		],
+		"allowJs": true,
+		"moduleResolution": "node",
+		"forceConsistentCasingInFileNames": true,
+		"noImplicitReturns": true,
+		"noImplicitThis": true,
+		"strictNullChecks": true,
+		"suppressImplicitAnyIndexErrors": true,
+		"noUnusedLocals": true,
+		"typeRoots": [
+			"node_modules/@types/",
+			"node_modules/@bradmax/player/ns/",
+		]
+	},
+	"exclude": [
+		"node_modules",
+		"public"
+	]
+}
